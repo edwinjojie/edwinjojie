@@ -62,11 +62,6 @@ Agent workflows • blockchain anchoring • microservices • dashboards for in
   <img src="https://skillicons.dev/icons?i=docker,linux,git,graphql" height="38"/>
 </p>
 
-<hr>
 
-<h3>💡 Philosophy</h3>
-<blockquote><b>“I don’t stop when it works — I stop when it can’t break.”</b></blockquote>
-
-<hr>
 
 <h4><b>Open to:</b> internships • roles • freelance engineering projects</h4>
