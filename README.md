@@ -5,17 +5,18 @@
 ![Profile Banner](https://via.placeholder.com/1200x300/0d1117/ffffff?text=Edwin+Jojie+Varghese+%7C+AI+%26+Full-Stack+Developer) <!-- Replace with your uploaded banner image URL -->
 
 **AI & Full-Stack Developer | Computer Vision & Data Automation Specialist | Building Scalable Solutions with Python, React, and Deep Learning**
+<div align="right">
 
 - 🔭 Currently working on advanced AI detection systems and real-time web dashboards.
 - 🌱 Exploring agent orchestration, blockchain-anchored verification, and enterprise workflows.
 - 👯 Open to collaborating on computer vision, full-stack apps, or AI-driven projects.
 - 💼 Actively seeking Software Engineering / ML Engineering roles—let's connect!
-- 📫 Reach me: [edwinjojievarghese@example.com](mailto:edwinjojie04@gmail.com) <!-- Update with your real email -->
+- 📫 Reach me: [edwinjojie04@gmail.com](mailto:edwinjojie04@gmail.com) <!-- Update with your real email -->
 - ⚡ Fun fact: I once built a system to catch illegal trash dumping using just a webcam—now it's spotting opportunities everywhere!
 
 ### Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edwinjojie) <!-- Update URL -->
-[![Portfolio]([https://img.shields.io/badge/Portfolio-Visit-green?logo=globe&logoColor=white](https://edwinjojie.netlify.app/))](https://edwinjojie.com) <!-- Add if you have one -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?logo=globe&logoColor=white)](https://edwinjojie.netlify.app/) <!-- Add if you have one -->
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white)](mailto:edwinjojie04@gmail.com)
 
 ### Tech Stack & Tools
