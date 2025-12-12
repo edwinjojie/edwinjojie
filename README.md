@@ -24,22 +24,6 @@
 
 ---
 
-## ⭐ Featured Projects
-> My **pinned repositories** are the canonical representation of my work — check them on my profile. Below are two featured highlights (add GIFs/screenshots to `assets/projects/` to show live demos).
-
-### IBS V5 — Airline Operations Dashboard
-**Problem:** Real-time tracking & ops alerts for airline control rooms.  
-**Impact:** Live KPIs, alerts, and operations views for faster decisions.  
-<img src="./assets/projects/ibs_v5.gif" width="720" alt="IBS V5 demo (add file assets/projects/ibs_v5.gif)" />
-
-### Smart City — Waste Disposal Detection
-**Problem:** Detect illegal vehicle-based trash dumping from CCTV.  
-**Impact:** Event evidence + reports to enforce city compliance.  
-<img src="./assets/projects/smart_city.gif" width="720" alt="Smart City demo (add file assets/projects/smart_city.gif)" />
-
-*(If a project GIF is missing, add `/assets/projects/<name>.gif`. The README will show the demo after the file is committed.)*
-
----
 
 ## 🧭 Timeline (Quick)
 `2021` → Foundations: Python, SQL, first projects  
