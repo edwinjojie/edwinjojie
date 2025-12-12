@@ -1,63 +1,34 @@
-<h1 align="center"><strong>Edwin Jojie Varghese</strong> 👋</h1>
-<h3 align="center">AI Engineer • Computer Vision & Automation • Full-Stack Developer</h3>
-<p align="center">I build intelligent, production-ready systems — from computer vision pipelines to RL-driven optimization and offline AI agents.</p>
-
----
-
-<!-- STAT CARDS (served from this repo for reliability) -->
-<p align="center">
-  <img alt="Streak" src="./assets/stats/streak.svg" width="300" />
-  <img alt="Activity" src="./assets/stats/activity.svg" width="600" />
-</p>
-
-<p align="center">
-  <img alt="Top Languages" src="./assets/stats/top-langs.svg" width="360" />
-  <img alt="GitHub Stats" src="./assets/stats/stats.svg" width="360" />
-</p>
-
----
+<h1 align="center"><strong>Edwin Jojie Varghese</strong></h1>
+<h3 align="center">AI Engineer • Computer Vision Specialist • Full-Stack Developer</h3>
+<p align="center">I build systems that understand, automate, and scale.</p>
 
 ## 🔥 What I Do
-- Computer Vision systems for real-world automation  
-- Depth estimation & 3D scene understanding  
-- Reinforcement Learning for scheduling & optimization  
-- Trustworthy AI & credential verification systems  
-- Lightweight offline/edge AI agents
+- Real-world computer vision solutions (object detection, depth, tracking)
+- Reinforcement Learning for scheduling, routing, assignment
+- Full-stack engineering (React/Next.js + Node.js + MongoDB)
+- Trustworthy AI systems: credential validation, verifiable data
+- Offline/edge-friendly AI agents for practical deployment
 
----
+## 🚀 Work That Represents Me
+My pinned repositories show the systems I enjoy building:
+- **IBS v5** — scalable airline operations dashboard  
+- **Smart City Waste Detection** — CV pipeline for surveillance AI  
+- **Valid8 Care** — agent-driven healthcare data automation  
+- **Career Verification Platform** — credential validation at scale  
+- **AI Study Coach** — offline personalized learning assistant  
+- **DAPCVRN** — trusted credential verification network  
 
-## ⭐ Pinned Projects
-My pinned repos are the best way to see my work — production-ready CV systems, enterprise dashboards, verification platforms, and agent-driven automation:
-- IBS_V5 (airline ops dashboard)  
-- Smart_city_project (waste detection)  
-- valid8 (data automation)  
-- career-verification-and-recruitment-platform  
-- ai-study-coach  
-- DAPCVRN
-
----
-
-## 🧭 Roadmap (2021 → present)
-`2021` → foundations: Python, MySQL, early projects  
-`2022` → MERN, B.Tech CSE  
-`2023` → robotics & CV experiments  
-`2024` → smart-city CV deployments, internships  
-`2025` → IBS Software, RL scheduling, enterprise AI systems  
-Present → building scalable CV + RL systems & trustworthy AI
-
----
+## 🧠 What I’m Exploring
+- 3D scene understanding from monocular depth  
+- Autonomous inspection systems  
+- Multi-agent RL for real-world constraints  
+- Reliable, privacy-preserving local AI  
 
 ## 💡 Philosophy
-> **"If it's worth building, I finish it. Sleep is optional."**
+**If it’s worth building, it’s worth finishing.  
+No half-baked deliverables. No abandoned ideas.**
 
----
-
-## 🔗 Connect
-- Email: edwinjojie04@gmail.com  
-- Portfolio: https://edwinjojie.netlify.app/  
-- LinkedIn: https://www.linkedin.com/in/edwin-jojie-67b3b4255  
-- GitHub: https://github.com/edwinjojie
-
----
-
-*If the images above are missing: run the included GitHub Action once (it will create `/assets/stats/`) or drop the SVGs manually into `/assets/stats/` — instructions below.*
+## 📬 Connect
+Email — **edwinjojie04@gmail.com**  
+Portfolio — **edwinjojie.netlify.app**  
+LinkedIn — **linkedin.com/in/edwin-jojie-67b3b4255**
