@@ -1,27 +1,36 @@
-<h1 align="center"><strong>Edwin Jojie Varghese</strong></h1>
-<h3 align="center">AI Engineer • Full-Stack Developer • Computer Vision Specialist</h3>
+<h1 align="center">👋 Hey, I'm <strong>Edwin</strong></h1>
+<p align="center"><em>AI • Computer Vision • Full-Stack Engineering</em></p>
 
-<p align="center">I build intelligent systems that solve real-world problems.</p>
+---
 
-## 🔥 What I Do
-- Computer Vision for automation and surveillance  
-- Full-stack engineering with React, Next.js, Node.js, MongoDB  
-- Offline + lightweight AI agents  
-- Reinforcement Learning for scheduling & optimization  
-- Verification & credential trust systems  
+### 🧠 Core Focus Areas
+- Real-world computer vision systems  
+- 3D depth + scene understanding  
+- RL models for scheduling & decision making  
+- Secure & trustworthy credential systems  
+- Offline AI agents for automation  
 
-## 🚀 Best Work
-The pinned repositories on my profile represent my engineering capabilities:  
-- Real-time computer vision systems  
-- Enterprise dashboards  
-- Verification platforms  
-- Agent-driven automation tools  
-- RL-based optimization engines  
+---
 
-## 💡 Philosophy
-**If it's worth building, I finish it. Sleep comes later.**
+### 🛠 Tech I Work With
+**AI/ML:** Python, PyTorch, TensorFlow, OpenCV, YOLO, MiDaS  
+**Full-Stack:** React, Next.js, Node.js, Express, MongoDB, PostgreSQL  
+**Tools:** Firebase, Electron, Git, OR-Tools  
 
-## 📬 Reach Me
-- **Email:** edwinjojie04@gmail.com  
-- **Portfolio:** https://edwinjojie.netlify.app/  
-- **LinkedIn:** https://www.linkedin.com/in/edwin-jojie-67b3b4255  
+---
+
+### ⭐ Featured Work
+Check my **pinned repositories** — they’re the best summary of what I love building:  
+real-time CV pipelines, agent systems, enterprise dashboards, verification platforms, and optimization engines.
+
+---
+
+### 💭 My Dev Mindset
+> **"Build. Refine. Complete. No half-baked systems."**
+
+---
+
+### 🌐 Connect
+**Portfolio:** https://edwinjojie.netlify.app/  
+**Email:** edwinjojie04@gmail.com  
+**LinkedIn:** linkedin.com/in/edwin-jojie-67b3b4255  
