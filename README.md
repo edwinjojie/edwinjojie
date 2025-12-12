@@ -1,34 +1,43 @@
 <h1 align="center"><strong>Edwin Jojie Varghese</strong></h1>
-<h3 align="center">AI Engineer • Computer Vision Specialist • Full-Stack Developer</h3>
-<p align="center">I build systems that understand, automate, and scale.</p>
+<h3 align="center">AI Engineer • Computer Vision Developer • Full-Stack Builder</h3>
+<p align="center">I build intelligent systems that see, decide, and automate.</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=edwinjojie&theme=tokyonight&hide_border=true" width="420" />
+</p>
 
 ## 🔥 What I Do
-- Real-world computer vision solutions (object detection, depth, tracking)
-- Reinforcement Learning for scheduling, routing, assignment
-- Full-stack engineering (React/Next.js + Node.js + MongoDB)
-- Trustworthy AI systems: credential validation, verifiable data
-- Offline/edge-friendly AI agents for practical deployment
+- Computer Vision for real-world automation  
+- 3D scene understanding using depth + geometry  
+- Reinforcement Learning for intelligent scheduling & optimization  
+- Full-stack engineering (React, Next.js, Node.js, MongoDB)  
+- Trustworthy AI + credential verification systems  
+- Offline-ready AI agent systems  
 
 ## 🚀 Work That Represents Me
-My pinned repositories show the systems I enjoy building:
-- **IBS v5** — scalable airline operations dashboard  
-- **Smart City Waste Detection** — CV pipeline for surveillance AI  
-- **Valid8 Care** — agent-driven healthcare data automation  
-- **Career Verification Platform** — credential validation at scale  
-- **AI Study Coach** — offline personalized learning assistant  
-- **DAPCVRN** — trusted credential verification network  
+My pinned repositories show what I build:
+- Enterprise AI dashboards (IBS V5)  
+- Real-time CV systems (Smart City Project)  
+- Offline AI agents (Valid8, AI Study Coach)  
+- Verification & credential trust platforms (DAPCVRN, Career Verification System)  
 
-## 🧠 What I’m Exploring
-- 3D scene understanding from monocular depth  
-- Autonomous inspection systems  
-- Multi-agent RL for real-world constraints  
-- Reliable, privacy-preserving local AI  
+## 🧭 Technical Interests
+- Vision systems that operate in noisy real-world environments  
+- Depth estimation + 3D perception  
+- Scheduling engines with RL + graph optimization  
+- Automation platforms driven by lightweight AI agents  
+- Reliability, safety, and trust in intelligent systems  
+
+## 🛠 Tech Stack
+**AI/ML:** Python, PyTorch, TensorFlow, OpenCV, YOLO, MiDaS  
+**Backend:** Node.js, Express, MongoDB, PostgreSQL, Firebase  
+**Frontend:** React, Next.js, TypeScript, Tailwind  
+**Tools:** Git, Electron, OR-Tools, Docker, Postman  
 
 ## 💡 Philosophy
-**If it’s worth building, it’s worth finishing.  
-No half-baked deliverables. No abandoned ideas.**
+**If it's worth building, I finish it — sleep comes later.**
 
-## 📬 Connect
-Email — **edwinjojie04@gmail.com**  
-Portfolio — **edwinjojie.netlify.app**  
-LinkedIn — **linkedin.com/in/edwin-jojie-67b3b4255**
+## 📬 Reach Me
+**Email:** edwinjojie04@gmail.com  
+**Portfolio:** https://edwinjojie.netlify.app  
+**LinkedIn:** https://www.linkedin.com/in/edwin-jojie-67b3b4255  
