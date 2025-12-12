@@ -6,7 +6,8 @@
 <!-- STREAK CARD (local fallback) -->
 <p align="center">
   <!-- External fallback while action first runs -->
-  <img src="https://streak-stats.demolab.com/?user=edwinjojie&theme=tokyonight&hide_border=true" width="420" alt="GitHub Streak"/>
+  <img src="./assets/projects/ibs_v5.gif" width="720" alt="IBS V5 demo" />
+
   <!-- After the action runs, you can replace the above line with:
   <img src="./assets/stats/streak.svg" width="420" alt="GitHub Streak"/>
   -->
