@@ -18,54 +18,47 @@ I’m still a student, but I engineer like someone who already builds for produc
 
 ---
 
-## 🔥 Core Expertise (Deep Technical Scope)
+## 🔥 Core Expertise
 
-### **Computer Vision & Image Processing**
-- Detection, segmentation, tracking, temporal event classification  
-- Depth estimation / 3D reasoning (MiDaS, geometry-aware pipelines)  
-- Real-time CCTV analytics and evidence extraction systems  
+<div align="left">
 
-### **AI/ML Engineering**
-- End-to-end **model training**, evaluation, and optimization  
-- LLM orchestration → multi-step reasoning → agent workflows  
-- RL-based optimization (scheduling, assignment, decision systems)  
-- Model compression, quantization, real-time inference pipelines  
+### 🟦 Computer Vision  
+**Detection • Tracking • Depth Estimation • CCTV Analytics**
 
-### **AI Agents & Distributed Systems**
-- Multi-agent architectures for automation and data intelligence  
-- **MCP (Model Context Protocol)** server engineering  
-- Microservices design with message-driven or event-driven flows  
-- Scalable, fault-tolerant automation backends  
+### 🟩 AI/ML Engineering  
+**Model Training • Optimization • LLM Orchestration • RL Scheduling**
 
-### **Backend Architecture & Full-Stack Development**
-- Production APIs with Node.js, Express, MongoDB, PostgreSQL  
-- System design for dashboards, verification networks, automation tools  
-- React / Next.js for dynamic, scalable, enterprise UI  
-- CI/CD pipelines, containerized deployments, distributed backend patterns  
+### 🟪 AI Agents & Systems  
+**Multi-Agent Workflows • MCP Servers • Microservices • Event-Driven Pipelines**
+
+### 🟧 Full-Stack & Backend  
+**APIs • Distributed Systems • React/Next.js • CI/CD • Containers**
+
+</div>
+
 
 ---
 
 ## ⭐ Featured Projects
 
-### **Smart City Waste Disposal Detection**
-A real-world computer vision deployment for detecting illegal waste disposal from CCTV streams.  
-Depth reasoning, temporal classification, and structured evidence → automated city enforcement.
+<div align="left">
 
-### **Valid8Care — AI Agent–Driven Automation Engine**
-A modular multi-agent system for validating, enriching, and scoring healthcare data from PDFs, CSVs, and images.  
-Built using microservices, message queues, and autonomous agent workflows.
+### 🚗 **Smart City Waste Disposal Detection**  
+Real-world CV system with depth reasoning + temporal classifiers → automated enforcement.
 
-### **DAPCVRN — Distributed Credential Verification Network**
-A trust and verification infrastructure combining:  
-- AI agents for credential logic  
-- Blockchain anchoring for tamper resistance  
-- Microservices for issuing, verifying, and revoking credentials  
-- Full-stack dashboards for universities, recruiters & students  
+### 🏥 **Valid8Care — AI Agent Automation Engine**  
+Multi-agent pipelines for validating and enriching healthcare data across formats.
+
+### 🔐 **DAPCVRN — Credential Verification Network**  
+Agent workflows + blockchain anchoring + microservices + dashboards for institutions.
+
+</div>
+
 
 ---
 
-## 🧠 AI/ML Research Interests
-> Building reliable perception systems, lightweight agents, and optimization models that survive the chaos of real-world environments.
+## 🧠 AI/ML Research Interests  
+> **Reliable perception models, lightweight agent systems, and real-world optimization.**
 
 ---
 
