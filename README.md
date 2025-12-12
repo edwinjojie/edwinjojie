@@ -1,9 +1,9 @@
-<h2 align="center"><strong>Hi, I'm Edwin 👋</strong></h2>
+<h2 align="center"><strong>Hi, I'm Edwin Jojie Varghese 👋</strong></h2>
 <h4 align="center">AI Engineer • Computer Vision Automation • Full-Stack Systems Developer</h4>
 
-<p align="center">
+<p align="left">
 I build real-world AI systems — from perception models and agent workflows to distributed backend architectures and full-stack platforms.  
-I’m a student, but I engineer like I’m already shipping production systems.
+I’m a student with the hunger to build.
 </p>
 
 <p align="center">
