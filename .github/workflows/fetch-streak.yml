@@ -12,26 +12,33 @@ jobs:
   fetch-streak:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
+      - name: Checkout repository (with token)
         uses: actions/checkout@v4
         with:
           persist-credentials: true
 
-      - name: Ensure assets dir
-        run: mkdir -p assets/stats
+      - name: Ensure assets directory
+        run: mkdir -p assets/stats assets/projects
 
       - name: Download streak SVG
         run: |
           curl -s -o assets/stats/streak.svg "https://streak-stats.demolab.com/?user=edwinjojie&theme=tokyonight&hide_border=true"
+          # quick validation
+          if [ ! -s assets/stats/streak.svg ]; then
+            echo "streak.svg is empty or not downloaded"
+            cat assets/stats/streak.svg || true
+          fi
 
-      - name: Commit & push if changed
+      - name: Commit & push changes (using GITHUB_TOKEN)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add assets/stats/streak.svg || true
           if ! git diff --quiet --cached; then
             git commit -m "chore(stats): update streak.svg"
-            git push
+            git push origin HEAD:${{ github.ref_name }}
           else
             echo "No changes to commit"
           fi
