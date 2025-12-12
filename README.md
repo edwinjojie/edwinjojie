@@ -5,7 +5,7 @@
 ![Profile Banner](https://via.placeholder.com/1200x300/0d1117/ffffff?text=Edwin+Jojie+Varghese+%7C+AI+%26+Full-Stack+Developer) <!-- Replace with your uploaded banner image URL -->
 
 **AI & Full-Stack Developer | Computer Vision & Data Automation Specialist | Building Scalable Solutions with Python, React, and Deep Learning**
-<div align="right">
+<div align="left">
 
 - 🔭 Currently working on advanced AI detection systems and real-time web dashboards.
 - 🌱 Exploring agent orchestration, blockchain-anchored verification, and enterprise workflows.
