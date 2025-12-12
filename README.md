@@ -10,31 +10,12 @@ I’m still a student, but I engineer like someone who already builds for produc
   <img src="./assets/stats/streak.svg" width="430" />
 </p>
 
-<p align="center">
-  <img src="./assets/stats/stats.svg" width="420" />
-  <img src="./assets/stats/top-langs.svg" width="355" />
-</p>
+
 
 
 ---
 
-## 🔥 Core Expertise
 
-<div align="left">
-
-### 🟦 Computer Vision  
-**Detection • Tracking • Depth Estimation • CCTV Analytics**
-
-### 🟩 AI/ML Engineering  
-**Model Training • Optimization • LLM Orchestration • RL Scheduling**
-
-### 🟪 AI Agents & Systems  
-**Multi-Agent Workflows • MCP Servers • Microservices • Event-Driven Pipelines**
-
-### 🟧 Full-Stack & Backend  
-**APIs • Distributed Systems • React/Next.js • CI/CD • Containers**
-
-</div>
 
 
 ---
