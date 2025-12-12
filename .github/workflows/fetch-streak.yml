@@ -1,44 +1,59 @@
-name: Fetch GitHub Streak SVG
+name: Fetch GitHub Profile Stats
 
 on:
-  workflow_dispatch:
+  workflow_dispatch:  # you can trigger manually
   schedule:
-    - cron: '0 1 * * *' # daily at 01:00 UTC
+    - cron: '0 2 * * *'  # runs every day at 2:00 UTC
   push:
     branches:
       - main
 
 jobs:
-  fetch-streak:
+  fetch-stats:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repository (with token)
+      - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          persist-credentials: true
+          persist-credentials: true   # use GITHUB_TOKEN for pushes
 
-      - name: Ensure assets directory
-        run: mkdir -p assets/stats assets/projects
+      - name: Create stats directory
+        run: mkdir -p assets/stats
 
-      - name: Download streak SVG
+      # ----- FETCH STREAK SVG -----
+      - name: Fetch GitHub Streak Stats
         run: |
-          curl -s -o assets/stats/streak.svg "https://streak-stats.demolab.com/?user=edwinjojie&theme=tokyonight&hide_border=true"
-          # quick validation
-          if [ ! -s assets/stats/streak.svg ]; then
-            echo "streak.svg is empty or not downloaded"
-            cat assets/stats/streak.svg || true
+          curl -s -o assets/stats/streak.svg \
+          "https://streak-stats.demolab.com/?user=edwinjojie&theme=tokyonight&hide_border=true"
+          echo "Streak downloaded."
+
+      # ----- FETCH GITHUB STATS -----
+      - name: Fetch GitHub Stats Card
+        run: |
+          curl -s -o assets/stats/stats.svg \
+          "https://github-readme-stats.vercel.app/api?username=edwinjojie&show_icons=true&theme=tokyonight&hide_border=true"
+          echo "Stats card downloaded."
+
+      # ----- FETCH TOP LANGS CARD -----
+      - name: Fetch Top Languages Card
+        run: |
+          curl -s -o assets/stats/top-langs.svg \
+          "https://github-readme-stats.vercel.app/api/top-langs/?username=edwinjojie&layout=compact&theme=tokyonight&hide_border=true"
+          echo "Top langs card downloaded."
+
+      # ----- COMMIT & PUSH -----
+      - name: Commit and Push Updated Stats
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add assets/stats/*
+
+          if git diff --cached --quiet; then
+            echo "No changes in stats, skipping commit."
+            exit 0
           fi
 
-      - name: Commit & push changes (using GITHUB_TOKEN)
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/stats/streak.svg || true
-          if ! git diff --quiet --cached; then
-            git commit -m "chore(stats): update streak.svg"
-            git push origin HEAD:${{ github.ref_name }}
-          else
-            echo "No changes to commit"
-          fi
+          git commit -m "chore(stats): update GitHub profile stat images"
+          git push
