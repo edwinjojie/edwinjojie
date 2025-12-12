@@ -7,14 +7,14 @@ I’m still a student, but I engineer like someone who already builds for produc
 </p>
 
 <p align="center">
-  <!-- TEMP external cards; will self-host after workflow setup -->
-  <img src="https://streak-stats.demolab.com/?user=edwinjojie&theme=tokyonight&hide_border=true" width="430" />
+  <img src="./assets/stats/streak.svg" width="430" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edwinjojie&show_icons=true&theme=tokyonight&hide_border=true" width="420" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinjojie&layout=compact&theme=tokyonight&hide_border=true" width="355" />
+  <img src="./assets/stats/stats.svg" width="420" />
+  <img src="./assets/stats/top-langs.svg" width="355" />
 </p>
+
 
 ---
 
