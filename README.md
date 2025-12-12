@@ -1,3 +1,17 @@
+<h2 align="center"><strong>Hi, I'm Edwin 👋</strong></h2>
+<h4 align="center">AI Engineer • Computer Vision Automation • Full-Stack Systems Developer</h4>
+
+<p align="center">
+I build real-world AI systems — from perception models and agent workflows to distributed backend architectures and full-stack platforms.  
+I’m a student, but I engineer like I’m already shipping production systems.
+</p>
+
+<p align="center">
+  <img src="./assets/stats/streak.svg" width="350" />
+</p>
+
+<hr>
+
 <h3>🔥 Core Expertise</h3>
 
 <div align="left">
@@ -29,13 +43,9 @@ Real-world CV system with depth reasoning + temporal classifiers → automated e
 Multi-agent pipelines for validating and enriching healthcare data across formats.
 
 <h4>🔐 DAPCVRN — Credential Verification Network</h4>
-Agent workflows + blockchain anchoring + microservices + dashboards for institutions.
+Agent workflows • blockchain anchoring • microservices • dashboards for institutions.
 
 </div>
-
-<p align="center">
-  <img src="./assets/stats/streak.svg" width="430" />
-</p>
 
 <hr>
 
@@ -44,12 +54,12 @@ Agent workflows + blockchain anchoring + microservices + dashboards for institut
 
 <hr>
 
-<h3>🛠 Tech Stack (Logos)</h3>
+<h3>🛠 Tech Stack</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" height="42"/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgres,ts,js,tailwind" height="42"/>
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,graphql" height="42"/>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" height="38"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgres,ts,js,tailwind" height="38"/>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,graphql" height="38"/>
 </p>
 
 <hr>
