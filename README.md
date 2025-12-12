@@ -38,13 +38,13 @@ Present → CV + RL + Full-Stack Systems Engineering
 
 ## 📊 GitHub Analytics
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=edwinjojie&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com/?user=edwinjojie&theme=tokyonight" alt="GitHub Streak Stats"/>
 <br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=edwinjojie&theme=react-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=edwinjojie&theme=react-dark&hide_border=true" alt="GitHub Activity Graph"/>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinjojie&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinjojie&layout=compact&theme=tokyonight" alt="Top Languages"/>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=edwinjojie&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=edwinjojie&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 
 ## 💡 Coding Philosophy
