@@ -1,22 +1,21 @@
-<h1 align="center"><strong>Edwin Jojie Varghese</strong></h1>
-<h3 align="center">AI Engineer • Computer Vision Automation • Full-Stack Systems Developer</h3>
 
-<p align="center">
-I build intelligent systems end-to-end — from perception models and LLM-driven agents to distributed microservices and full-stack platforms.  
-I’m still a student, but I engineer like someone who already builds for production.
-</p>
+## 🔥 Core Expertise
 
-<p align="center">
-  <img src="./assets/stats/streak.svg" width="430" />
-</p>
+<div align="left">
 
+### 🟦 Computer Vision  
+**Detection • Tracking • Depth Estimation • CCTV Analytics**
 
+### 🟩 AI/ML Engineering  
+**Model Training • Optimization • LLM Orchestration • RL Scheduling**
 
+### 🟪 AI Agents & Systems  
+**Multi-Agent Workflows • MCP Servers • Microservices • Event-Driven Pipelines**
 
----
+### 🟧 Full-Stack & Backend  
+**APIs • Distributed Systems • React/Next.js • CI/CD • Containers**
 
-
-
+</div>
 
 ---
 
@@ -34,6 +33,9 @@ Multi-agent pipelines for validating and enriching healthcare data across format
 Agent workflows + blockchain anchoring + microservices + dashboards for institutions.
 
 </div>
+<p align="center">
+  <img src="./assets/stats/streak.svg" width="430" />
+</p>
 
 
 ---
@@ -57,10 +59,5 @@ Agent workflows + blockchain anchoring + microservices + dashboards for institut
 > **“I don’t stop when it works — I stop when it can’t break.”**
 
 ---
-
-## 📬 Contact
-Email → **edwinjojie04@gmail.com**  
-Portfolio → **https://edwinjojie.netlify.app**  
-LinkedIn → **https://www.linkedin.com/in/edwin-jojie-67b3b4255**
 
 **Open to:** internships • roles • freelance engineering projects  
