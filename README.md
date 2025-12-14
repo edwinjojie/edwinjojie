@@ -15,14 +15,10 @@ I’m a student with the hunger to build.
 <h3> Core Expertise</h3>
 
 <div align="left">
-<h4>-Computer Vision</h4>
-<b>  Detection • Tracking • Depth Estimation • CCTV Analytics</b>
-<h4>-AI/ML Engineering</h4>
-<b>  Model Training • Optimization • LLM Orchestration • RL Scheduling</b>
-<h4>-AI Agents & Systems</h4>
-<b>  Multi-Agent Workflows • MCP Servers • Microservices • Event-Driven Pipelines</b>
-<h4>-Full-Stack & Backend</h4>
-<b>  APIs • Distributed Systems • React/Next.js • CI/CD • Containers</b>
+<h4>- Computer Vision:</h4><b>  Detection • Tracking • Depth Estimation • CCTV Analytics</b>
+<h4>- AI/ML Engineering:</h4><b>  Model Training • Optimization • LLM Orchestration • RL Scheduling</b>
+<h4>- AI Agents & Systems:</h4><b>  Multi-Agent Workflows • MCP Servers • Microservices • Event-Driven Pipelines</b>
+<h4>- Full-Stack & Backend:</h4><b>  APIs • Distributed Systems • React/Next.js • CI/CD • Containers</b>
 </div>
 <hr>
 
