@@ -26,14 +26,11 @@ I’m a student with the hunger to build.
 
 <h3>  Featured Projects</h3>
 <div align="left">
-<h4>🚗 Smart City Waste Disposal Detection</h4>
-Real-world CV system with depth reasoning + temporal classifiers → automated enforcement.
+<p><h4>🚗 Smart City Waste Disposal Detection :</h4>Real-world CV system with depth reasoning + temporal classifiers → automated enforcement.</p>
 
-<h4>🏥 Valid8Care — AI Agent Automation Engine</h4>
-Multi-agent pipelines for validating and enriching healthcare data across formats.
+<p><h4>🏥 Valid8Care — AI Agent Automation Engine :</h4>Multi-agent pipelines for validating and enriching healthcare data across formats.</p>
 
-<h4>🔐 DAPCVRN — Credential Verification Network</h4>
-Agent workflows • blockchain anchoring • microservices • dashboards for institutions.
+<p><h4>🔐 DAPCVRN — Credential Verification Network :</h4>Agent workflows • blockchain anchoring • microservices • dashboards for institutions.</p>
 
 </div>
 
