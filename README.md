@@ -15,13 +15,7 @@ I’m a student with the hunger to build.
 <h3> Core Expertise</h3>
 
 <div align="left">
-<p><strong>Computer Vision</strong> — Detection • Tracking • Depth Estimation • CCTV Analytics</p>
 
-<p><strong>AI/ML Engineering</strong> — Model Training • Optimization • LLM Orchestration • RL Scheduling</p>
-
-<p><strong>AI Agents & Systems</strong> — Multi-Agent Workflows • MCP Servers • Microservices • Event-Driven Pipelines</p>
-
-<p><strong>Full-Stack & Backend</strong> — APIs • Distributed Systems • React/Next.js • CI/CD • Containers</p>
 
 
 <h3>  Featured Projects</h3>
